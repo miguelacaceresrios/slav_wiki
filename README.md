@@ -1,6 +1,7 @@
 # SLAV RP
 
-![Minecraft Server]()
+[![Minecraft Server](/assets/mc-banner.svg)](minecraft://localhost)
+
 
 ## Sobre el proyecto
 
@@ -54,7 +55,7 @@ La wiki sirve como referencia para jugadores nuevos y miembros de la comunidad.
 
 ---
 
-[![Discord](./assets/discord-banner.svg)](https://discord.gg/Ak34E2PMhS)
+[![Discord](/assets/slavdc.svg)](https://discord.gg/Ak34E2PMhS)
 
 ## Discord
 
