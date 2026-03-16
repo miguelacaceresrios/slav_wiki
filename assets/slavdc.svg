@@ -1,0 +1,97 @@
+<svg width="900" height="180" viewBox="0 0 900 180" xmlns="http://www.w3.org/2000/svg">
+
+<defs>
+
+<linearGradient id="overlay" x1="0%" y1="0%" x2="100%" y2="100%">
+<stop offset="0%" stop-color="#000000" stop-opacity="0.75"/>
+<stop offset="100%" stop-color="#000000" stop-opacity="0.65"/>
+</linearGradient>
+
+</defs>
+
+<!-- GIF BACKGROUND -->
+<image 
+href="./bg.gif"
+x="0"
+y="0"
+width="900"
+height="180"
+preserveAspectRatio="xMidYMid slice"
+/>
+
+<!-- overlay -->
+<rect width="900" height="180" fill="url(#overlay)" rx="14"/>
+
+<!-- LEFT -->
+
+<text x="60"
+y="70"
+font-size="42"
+fill="#ffffff"
+font-family="Segoe UI, Inter"
+letter-spacing="2">
+SLAV DISCORD
+</text>
+
+<text x="60"
+y="105"
+font-size="18"
+fill="#f3d27a">
+Official Community
+</text>
+
+<text x="60"
+y="135"
+font-size="16"
+fill="#e0e0e0">
+Chat • Mods • Development
+</text>
+
+<!-- divider -->
+
+<line x1="430"
+y1="40"
+x2="430"
+y2="140"
+stroke="#ffffff33"
+stroke-width="2"/>
+
+<!-- RIGHT -->
+
+<text x="470"
+y="85"
+font-size="18"
+fill="#f3d27a">
+Community Hub
+</text>
+
+<text x="470"
+y="115"
+font-size="22"
+fill="#ffffff">
+Events • Updates
+</text>
+
+<!-- JOIN BUTTON -->
+
+<a href="https://discord.gg/Ak34E2PMhS">
+
+<rect x="700"
+y="65"
+width="150"
+height="50"
+rx="8"
+fill="#ffffff"/>
+
+<text x="775"
+y="97"
+font-size="18"
+fill="#111111"
+text-anchor="middle"
+letter-spacing="1">
+JOIN
+</text>
+
+</a>
+
+</svg>

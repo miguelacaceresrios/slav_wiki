@@ -1,0 +1,98 @@
+<svg width="900" height="180"
+xmlns="http://www.w3.org/2000/svg"
+xmlns:xlink="http://www.w3.org/1999/xlink">
+
+<!-- GIF BACKGROUND -->
+<image
+xlink:href="bg.gif"
+x="0"
+y="0"
+width="900"
+height="180"
+preserveAspectRatio="xMidYMid slice"
+/>
+
+<!-- overlay oscuro -->
+<rect width="900" height="180" fill="rgba(0,0,0,0.65)" rx="14"/>
+
+<!-- LEFT -->
+
+<text x="60"
+y="70"
+font-size="42"
+fill="#ffffff"
+font-family="Segoe UI"
+letter-spacing="2">
+SLAV MC
+</text>
+
+<text x="60"
+y="105"
+font-size="18"
+fill="#ffd166">
+Minecraft 1.21.10
+</text>
+
+<text x="60"
+y="135"
+font-size="16"
+fill="#e0e0e0">
+IP: localhost
+</text>
+
+<!-- divider -->
+
+<line x1="430"
+y1="40"
+x2="430"
+y2="140"
+stroke="#ffffff33"
+stroke-width="2"/>
+
+<!-- RIGHT -->
+
+<text x="470"
+y="85"
+font-size="18"
+fill="#ffd166">
+Players
+</text>
+
+<text x="470"
+y="110"
+font-size="24"
+fill="#ffffff">
+-- / --
+</text>
+
+<text x="470"
+y="135"
+font-size="16"
+fill="#dddddd">
+Status: Development
+</text>
+
+<!-- BUTTON -->
+
+<a xlink:href="minecraft://localhost">
+
+<rect
+x="700"
+y="65"
+width="150"
+height="50"
+rx="8"
+fill="#ffffff"/>
+
+<text
+x="775"
+y="97"
+font-size="18"
+fill="#111111"
+text-anchor="middle">
+JOIN
+</text>
+
+</a>
+
+</svg>
